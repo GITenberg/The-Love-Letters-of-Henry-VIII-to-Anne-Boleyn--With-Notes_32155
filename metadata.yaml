@@ -1,0 +1,30 @@
+_repo: The-Love-Letters-of-Henry-VIII-to-Anne-Boleyn--With-Notes_32155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henry VIII, King of England
+    birthdate: 1491
+    deathdate: 1547
+    gutenberg_agent_id: '35690'
+    url: http://www.gutenberg.org/2009/agents/35690
+description: ''
+gutenberg_issued: '2010-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Henry VIII, King of England, 1491-1547 -- Correspondence'
+- !lcsh 'Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536 --
+  Correspondence'
+- !lcc 'DA'
+- !lcsh 'Love-letters -- Early works to 1800'
+- !lcsh 'Great Britain -- Kings and rulers -- Correspondence'
+title: The Love Letters of Henry VIII to Anne Boleyn; With Notes
+url: http://www.gutenberg.org/ebooks/32155
